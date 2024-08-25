@@ -1,22 +1,23 @@
 Hey there!
 
-Sou Isis, tenho 23 anos e estudos programação back-end e Full-Stack. 
+I'm Isis, 23 years old, and I'm studying back-end and full-stack programming.
 
-## 🔧 Tecnologias que Uso
+## 🔧 Technologies I Use
 
-Aqui estão algumas das tecnologias que utilizo e adoro trabalhar:
+Here are some of the technologies I work with and enjoy:
 
 - **Python** 🐍  
-  Uma linguagem de programação poderosa e versátil, ideal para desenvolvimento web, análise de dados, automação e inteligência artificial.
+  A powerful and versatile programming language, ideal for web development, data analysis, automation, and artificial intelligence.
 
 - **Java** ☕  
-  Uma linguagem robusta e de propósito geral, amplamente usada para desenvolvimento de aplicações corporativas, aplicativos Android e sistemas complexos.
+  A robust, general-purpose language widely used for corporate applications, Android apps, and complex systems.
 
 - **JavaScript** 💻  
-  A linguagem essencial para desenvolvimento web front-end, conhecida por sua flexibilidade e por possibilitar a criação de experiências interativas no navegador.
+  The essential language for front-end web development, known for its flexibility and ability to create interactive experiences in the browser.
 
 - **Angular** 🔶  
-  Um framework robusto para construção de aplicações web de página única (SPA), com suporte para TypeScript e uma rica funcionalidade para desenvolver aplicações dinâmicas e escaláveis.
+  A powerful framework for building single-page web applications (SPA), with support for TypeScript and rich functionality for developing dynamic and scalable applications.
 
 - **HTML & CSS** 🌐  
-  As linguagens fundamentais para criar e estilizar páginas web. HTML fornece a estrutura da página, enquanto CSS é usado para aplicar estilos e layouts.
+  The fundamental languages for creating and styling web pages. HTML provides the structure, while CSS is used for applying styles and layouts.
+
