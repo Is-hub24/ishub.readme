@@ -1,6 +1,6 @@
 Hey there!
 
-I'm Isis, 23 years old, and I'm studying back-end and full-stack programming.
+I'm Isis, 23 years old, and I'm studying full-stack programming.
 
 ## 🔧 Technologies I Use
 
