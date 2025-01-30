@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/Is-hub24"><img src="https://img.shields.io/github/followers/Is-hub24?label=Seguidores&style=social"></a>
-  <a href="www.linkedin.com/in/isis-lugtenburg-3709ba187"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/isis-lugtenburg-3709ba187/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"></a>
+  <a href="mailto:isislugtenburg211@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 📊 GitHub Stats
@@ -15,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Is-hub24&theme=radical" width="400">
 </p>
 
-## 🚀 Tecnologias que uso
+## 🚀 Technologies used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,7 +26,5 @@
 
 
 
-## 📫 Contato
-📧 Email: isislugtenburg322@gmail.com  
 
 
