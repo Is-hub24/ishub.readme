@@ -1,3 +1,7 @@
+## 🐍 Meus Commits
+![Snake animation](https://github.com/Is-hub24/Is-hub24/blob/output/github-contribution-grid-snake.svg)
+
+
 Hey there!
 
 I'm Isis, 23 years old, and I'm studying full-stack programming.
