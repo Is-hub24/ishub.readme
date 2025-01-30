@@ -1,3 +1,5 @@
+## 🐍 Meus Commits
+![Snake animation](https://github.com/Is-hub24/Is-hub24/blob/main/dist/github-contribution-grid-snake.svg)
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&lines=Welcome+my+GitHub;Im+Isis+Lugtenburg+👩🏻‍💻;)
 
