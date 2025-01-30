@@ -1,27 +1,30 @@
-## 🐍 Meus Commits
-![Snake animation](https://github.com/Is-hub24/Is-hub24/blob/output/github-contribution-grid-snake.svg)
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B801&size=22&center=true&vCenter=true&lines=Welcome+my+GitHub;Im+Isis+Lugtenburg+👩🏻‍💻;)
 
 
-Hey there!
+<p align="center">
+  <a href="https://github.com/Is-hub24"><img src="https://img.shields.io/github/followers/Is-hub24?label=Seguidores&style=social"></a>
+  <a href="https://linkedin.com/in/IsisLugtenburg"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"></a>
+</p>
 
-I'm Isis, 23 years old, and I'm studying full-stack programming.
+## 📊 GitHub Stats
 
-## 🔧 Technologies I Use
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Is-hub24&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Is-hub24&theme=radical" width="400">
+</p>
 
-Here are some of the technologies I work with and enjoy:
+## 🚀 Tecnologias que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- **Python** 🐍  
-  A powerful and versatile programming language, ideal for web development, data analysis, automation, and artificial intelligence.
 
-- **Java** ☕  
-  A robust, general-purpose language widely used for corporate applications, Android apps, and complex systems.
 
-- **JavaScript** 💻  
-  The essential language for front-end web development, known for its flexibility and ability to create interactive experiences in the browser.
+## 📫 Contato
+📧 Email: isislugtenburg322@gmail.com  
 
-- **Angular** 🔶  
-  A powerful framework for building single-page web applications (SPA), with support for TypeScript and rich functionality for developing dynamic and scalable applications.
-
-- **HTML & CSS** 🌐  
-  The fundamental languages for creating and styling web pages. HTML provides the structure, while CSS is used for applying styles and layouts.
 
