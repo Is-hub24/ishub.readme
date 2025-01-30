@@ -1,0 +1,29 @@
+name: GitHub Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update contribution grid snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Is-hub24
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit the snake animation
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'seuemail@dominio.com'
+          message: 'Update contribution grid snake'
