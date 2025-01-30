@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Is-hub24"><img src="https://img.shields.io/github/followers/Is-hub24?label=Seguidores&style=social"></a>
-  <a href="https://linkedin.com/in/IsisLugtenburg"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"></a>
+  <a href="https://linkedin.com/in/Isis_Lugtenburg"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin"></a>
 </p>
 
 ## 📊 GitHub Stats
